@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzFuncDotnet7": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7178",
+      "launchBrowser": false
+    }
+  }
+}
